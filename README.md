@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Nuullll
-- 👀 I’m a Compiler Engineer at Intel, working on OpenCL CPU Runtime & OpenCL CPU Optimizer.
-
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
